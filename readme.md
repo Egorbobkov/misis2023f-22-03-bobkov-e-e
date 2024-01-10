@@ -19,7 +19,7 @@
 
 ## Результат выполнения программы
 
-![](/Users/egor/Documents/GitHub/misis2023f-22-03-bobkov-e-e/docs/Результат выполнения программы.png)
+![](docs/Результат выполнения программы.png)
 
 ## Ссылка на хранилище проекта
 https://github.com/Mihail20052005/PoroMarker-BPM-22-1
