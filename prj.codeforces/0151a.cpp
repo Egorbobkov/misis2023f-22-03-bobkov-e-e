@@ -11,8 +11,7 @@ int main() {
 
     int minToasts = std::min({totalToastFromSoda, totalToastFromLime, totalToastFromSalt});
 
-    int result = minToasts / n; // Рассчитываем количество тостов на каждого друга
-
+    int result = minToasts / n;
     std::cout << result << std::endl;
 
     return 0;

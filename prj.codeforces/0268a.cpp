@@ -14,7 +14,7 @@ int main() {
     for (int i = 0; i < n; ++i) {
         for (int j = 0; j < n; ++j) {
             if (i != j && teams[i].first == teams[j].second) {
-                // Команда i играет на своем стадионе, а цвет ее домашней формы совпадает с цветом формы команды j
+
                 count++;
             }
         }

@@ -12,7 +12,7 @@ int main() {
 
     std::vector<int> result(n);
 
-    for (int i = 0; i < n; ++i) {
+    for (int i = 0; i < n; ++i){
         result[gifts[i] - 1] = i + 1;
     }
 

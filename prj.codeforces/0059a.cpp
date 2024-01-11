@@ -5,7 +5,7 @@ int main() {
     std::string s;
     std::cin >> s;
 
-    int upperCount = 0, lowerCount = 0;
+    int  upperCount = 0, lowerCount = 0;
 
     for (char c : s) {
         if (std::isupper(c)) {

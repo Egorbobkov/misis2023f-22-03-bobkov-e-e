@@ -6,7 +6,7 @@ int main() {
     std::cin >> word;
 
     word[0] = toupper(word[0]);
-
+// вывод
     std::cout << word;
 
     return 0;

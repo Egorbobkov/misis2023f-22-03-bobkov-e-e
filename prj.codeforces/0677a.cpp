@@ -11,7 +11,7 @@ int main() {
 
         width += (ai > h) ? 2 : 1;
     }
-
+//
     std::cout << width;
 
     return 0;

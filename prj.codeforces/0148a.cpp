@@ -1,5 +1,5 @@
 #include <iostream>
-
+//
 int main() {
     int k, l, m, n, d;
     std::cin >> k >> l >> m >> n >> d;
