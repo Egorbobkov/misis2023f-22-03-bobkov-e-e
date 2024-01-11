@@ -105,4 +105,10 @@ array[i] = i+1;
 Он может быть полезен для базовой оценки производительности, 
 но при необходимости более точных и переносимых измерений рекомендуется использовать более современные средства. 
 
+## Список литературы
+
+http://cppstudio.com/post/561/?ysclid=lr889px1ms714493016
+https://en.cppreference.com/w/cpp/chrono/c/clock
+https://russianblogs.com/article/5743986491/
+https://learn.microsoft.com/ru-ru/cpp/c-runtime-library/reference/clock?view=msvc-170
 
